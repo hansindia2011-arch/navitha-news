@@ -1,0 +1,7 @@
+{
+  "name": "NAVITHA ",
+  "description": "A web application for newspaper teams to easily create and publish daily e-paper editions, leveraging Gemini AI for content assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
